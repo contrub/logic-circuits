@@ -182,7 +182,7 @@ Code representation of the PDNF
 
 Simulation of the PDNF
 
-![PCNF schematic](images/dcnf_diagram.png)
+![PCNF schematic](images/pcnf_diagram.png)
 
 Schematic representation of the ~~PKNF~~ PCNF
 
@@ -213,6 +213,10 @@ end Behavioral;
 ```
 
 Code representation of the ~~PKNF~~ PCNF
+
+![PCNF simulation](images/pcnf_simulation.png)
+
+Simulation of the ~~PKNF~~ PCNF
 
 </details>
 
